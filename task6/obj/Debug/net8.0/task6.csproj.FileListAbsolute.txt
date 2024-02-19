@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Home task 19.02\task6\bin\Debug\net8.0\task6.exe
+C:\Users\Administrator\Desktop\Home task 19.02\task6\bin\Debug\net8.0\task6.deps.json
+C:\Users\Administrator\Desktop\Home task 19.02\task6\bin\Debug\net8.0\task6.runtimeconfig.json
+C:\Users\Administrator\Desktop\Home task 19.02\task6\bin\Debug\net8.0\task6.dll
+C:\Users\Administrator\Desktop\Home task 19.02\task6\bin\Debug\net8.0\task6.pdb
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\task6.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\task6.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\task6.dll
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\refint\task6.dll
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\task6.pdb
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\task6.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Home task 19.02\task6\obj\Debug\net8.0\ref\task6.dll
